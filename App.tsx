@@ -30,7 +30,7 @@ function App(): JSX.Element {
   return (
     // <SafeAreaProvider>
       <SafeAreaView style={{flex:1}} >
-      {/* <Routes/> */}
+      <Routes/>
       </SafeAreaView>
     // </SafeAreaProvider>
 
